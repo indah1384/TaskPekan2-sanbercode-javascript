@@ -2,7 +2,7 @@
 
 Repository ini berisi solusi dari dua tugas pemrograman dasar menggunakan JavaScript. Tugas ini dirancang untuk membantu memahami alur dasar pemrograman, cara menggunakan JSON, serta penerapan logika dengan metode pengulangan dan manipulasi objek.
 
-Target Pembelajaran
+##Target Pembelajaran
 Memahami alur pemrograman dasar untuk JavaScript.
 Memahami cara penggunaan JSON dalam program.
 
